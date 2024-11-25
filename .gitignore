@@ -1,0 +1,5 @@
+# .gitignore para los archivos .xsd
+*.xsd
+
+# Ignorar la carpeta top_secret
+top_secret/
